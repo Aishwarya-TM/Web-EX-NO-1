@@ -245,7 +245,7 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-03-23 201519.png>)
-![alt text](<Screenshot 2024-03-23 201519.png>)
+![Screenshot 2024-03-23 201610](https://github.com/Aishwarya-TM/Web-EX-NO-1/assets/127846109/e27c4bc8-417a-487e-ae99-e52b213a567f)
 ![alt text](<Screenshot 2024-03-23 201638.png>)
 
 ## RESULT:
